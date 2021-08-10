@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... degree in computer 
 - 💞️ I’m looking to collaborate on ... INTERNSHIPS
 - 📫 How to reach me ... @VEDANTGAIKWAD : IG
-INDAIN , MUMBAI
+INDIAN , MUMBAI
 
 <!---
 radiculee/radiculee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
