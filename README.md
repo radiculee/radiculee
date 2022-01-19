@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... WEB development
 - 🌱 I’m currently learning ... degree in computer 
 - 💞️ I’m looking to collaborate on ... INTERNSHIPS
-- 📫 How to reach me ... @VEDANTGAIKWAD : IG
+- 📫 How to reach me ... Vedantgaikwad01@gmail.com
 INDIAN , MUMBAI
 
 <!---
