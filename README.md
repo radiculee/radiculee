@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @radiculeee
+- 👋 Hi, I’m @Vedant Gaikwad
 - 👀 I’m interested in ... WEB development
 - 🌱 I’m currently learning ... degree in computer
-- 💞️ I’m looking to collaborate on ... INTERNSHIPS
+- 💞️ I’m looking to collaborate on ... Frontend Projects
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
   INDIAN , MUMBAI
 
