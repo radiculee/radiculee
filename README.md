@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @radiculee
+- 👋 Hi, I’m @radiculeee
 - 👀 I’m interested in ... WEB development
-- 🌱 I’m currently learning ... degree in computer 
+- 🌱 I’m currently learning ... degree in computer
 - 💞️ I’m looking to collaborate on ... INTERNSHIPS
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
-INDIAN , MUMBAI
+  INDIAN , MUMBAI
 
 <!---
 radiculee/radiculee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
