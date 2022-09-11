@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vedant Gaikwad
-- 👀 I’m interested in ... WEB development
-- 🌱 I’m currently learning ... degree in computer
-- 💞️ I’m looking to collaborate on ... Frontend Projects
+- 👀 I’m interested in ... WEB development , Cloud Computing , Machine Learning :)
+- 🌱 I’m currently persuing a ... degree in computer
+- 💞️ I’m looking to collaborate on ... PROJECTS
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
   INDIAN , MUMBAI
 
