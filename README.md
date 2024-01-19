@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Vedant Gaikwad
 - 👀 I’m interested in ... Data analysis, Cloud Computing , Machine Learning :)
-- 🌱 I’m currently persuing a ... degree in computer
+- 🌱 I’m currently persuing a ...master's degree in computer
 - 💞️ I’m looking to collaborate on ... PROJECTS
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
-  INDIAN , MUMBAI
+  INDIAN , DUBLIN
 
 <!---
 radiculee/radiculee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
