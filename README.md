@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vedant Gaikwad
 - 👀 I’m interested in ... Data analysis, Cloud Computing , Machine Learning :)
-- 🌱 I’m currently persuing a ...master's degree in Data analysis at DCU
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
   INDIAN , DUBLIN
 
