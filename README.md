@@ -1,5 +1,5 @@
 
-- 📫 How to reach me ... Vedantgaikwad01@gmail.com
+- 📫 How to reach me ... Vedantgaikwad.ai@gmail.com
   INDIAN , DUBLIN
 
 <!---
