@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vedant Gaikwad
-- 👀 I’m interested in ... Data analysis, Cloud Computing , Machine Learning :)
+
 - 📫 How to reach me ... Vedantgaikwad01@gmail.com
   INDIAN , DUBLIN
 
