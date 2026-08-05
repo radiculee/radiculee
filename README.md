@@ -29,11 +29,11 @@ Full Irish work rights (Stamp 1G), no sponsorship required.
 
 Built
 
-Off Ye Go (code) Can't pick a pub? Spin the wheel. Next.js, live OpenStreetMap data, Mapbox.
+offyego.ie -- Can't pick a pub? Spin the wheel. Next.js, live OpenStreetMap data, Mapbox.
 
 Strava Dashboard My training data, pulled nightly by GitHub Actions, served through Streamlit.
 
-Bohemian Bar A real pub with a real website. Built it, still run it.
+Bohemian Bar A real pub with a real website. Built it, still run it. bohemianbar.ie
 
 Background
 
