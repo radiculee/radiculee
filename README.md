@@ -11,8 +11,6 @@ MSc Computing (Data Analytics), Dublin City University. Currently a Data Analyst
 - Kaggle: [kaggle.com/radiculee](https://www.kaggle.com/radiculee)
 - Email: vedantgaikwad01@gmail.com
 
-Full Irish work rights (Stamp 1G), no sponsorship required.
-
 ---
 
 ## What I work with
